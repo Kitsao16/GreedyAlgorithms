@@ -1,2 +1,2 @@
-# MyAlgorithms
-My approach to different problem set using different algorithms
+# GreedyAlgorithms
+goal is to start delivering aid as soon as possible. Using a linear greedy algorithm, while it may not produce the optimal solution, can provide a quick and acceptable solution in a reasonable amount of time. This approach is more suitable for the organization's immediate needs and constraint.The code is formulated in a way that it assumes that the problem involves distributing aid to affected areas based on urgency, without necessarily aiming for the optimal solutions
